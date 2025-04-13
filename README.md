@@ -10,3 +10,7 @@
 - env 삭제
 
 `Remove-Item Env:IGNORE_CASE`
+
+- 로깅 출력
+
+`cargo run -- to sample.txt > output.txt`
